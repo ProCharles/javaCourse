@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*Nested if
 to qualify for a loan , a person must make at least R35000 and have been working at their current job at least 2 years
  */
-public class loanQualifier {
+public class LoanQualifier {
     public static  void main (String args[]){
         // intiialize known values
         int reqSalary =35000;
