@@ -19,7 +19,7 @@ public class QoutaCalculator {
         }
         else {
             int salesShort  =qouta - sales;
-            System.out.println("you did not meet your qouat . You were " + salesShort + " Sales short ");
+            System.out.println("you did not meet your qouta . You were " + salesShort + " Sales short ");
         }
     }
 }
