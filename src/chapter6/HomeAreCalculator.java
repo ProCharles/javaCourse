@@ -10,7 +10,7 @@ public class HomeAreCalculator {
          room1.setLength(50);
          double areaOfRoom1 = room1.calculateArea();
 
-        ///Rectangele 1
+        ///Rectangele 2
         //create instance of Rectangle class
         Rectangle room2 = new Rectangle(30,75);
         double areaOfRoom2= room2.calculateArea();
